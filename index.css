@@ -7,5 +7,15 @@
 }
 
 body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
   font-family: "Alfa Slab One", cursive;
+  background: black;
+}
+
+.box {
+  position: relative;
 }
