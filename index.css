@@ -19,3 +19,14 @@ body {
 .box {
   position: relative;
 }
+
+.innerbox1 .innerbox2 .innerbox3 {
+  position: absolute;
+  top: 0;
+
+  width: 130px;
+  height: 38px;
+
+  transform: translate(-5px, -5px);
+  border-radius: 8px;
+}
