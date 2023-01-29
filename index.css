@@ -45,3 +45,15 @@ body {
   animation: anim 2s linear infinite;
   animation-delay: 1s;
 }
+
+.innerbox3 {
+  background: #a770ef82;
+  border-radius: 8px;
+  animation: anim 2s ease-in infinite;
+}
+
+@keyframes anim {
+  0% {
+    transform: translate(-5px -5px);
+  }
+}
