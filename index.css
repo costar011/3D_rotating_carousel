@@ -30,3 +30,18 @@ body {
   transform: translate(-5px, -5px);
   border-radius: 8px;
 }
+
+.innerbox1 {
+  background: #a770ef;
+  box-shadow: 0 0 50px #a770efa5;
+  animation: anim 2s linear infinite;
+  animation-delay: 1.5s;
+  position: relative;
+}
+
+
+.innerbox2 {
+  background: #cf8bf36b;
+  animation: anim 2s linear infinite;
+  animation-delay: 1s;
+}
