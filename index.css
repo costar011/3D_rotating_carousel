@@ -83,3 +83,12 @@ body {
 .text span:nth-child(1) {animation-delay: 0.3s;}
 .text span:nth-child(2) {animation-delay: 0.6s;}
 .text span:nth-child(3) {animation-delay: 0.8s;}
+
+@keyframes animDots {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
