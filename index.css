@@ -39,4 +39,13 @@ body {
 
 .innerbox2 {
   background: #cf8bf36b;
+  animation: 2s linear infinite;
+  animation-delay: 1s;
 }
+
+
+.innerbox3 {
+    background: #a770ef82;
+    border-radius: 8px;
+    animation: 2s ease-in infinite;
+  }
